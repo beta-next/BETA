@@ -33,3 +33,12 @@ runs/
 
 # Local data roots (point DATA_DIR at your own ImageNet / ImageNet-C copy)
 data/
+*.out
+*.err
+*.log
+out_*.txt
+quick_*
+envs/
+*.pt
+*.pth
+*.tar
